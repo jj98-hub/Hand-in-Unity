@@ -8,3 +8,8 @@ Mediapipe is a lightweight hand tracking module which use trnserflow lite that c
 
 The module for communication between python and unity in this project is Redis which you can setup and use it within 5 minute. Check https://github.com/redis/redis-py.git for the installation.
 
+**Below is the demo of this project.**
+
+![image](https://github.com/jj98-hub/Hand-in-Unity/blob/3724333d1e1ccbfa58c7b6af1291e59e0605a367/Demo.gif)
+
+Since i am not an expert in Unity, the project isn't perfect but still i am having fun with it. Feel free to try it out and have fun!
